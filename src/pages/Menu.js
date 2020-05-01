@@ -60,7 +60,7 @@ export default class Menu extends Component
 						<Col>
 							<ReactPlayer 
 								url = 'https://soundcloud.com/kidjamaka/above'
-								playing = "true"
+								playing = "false"
 								loop = "true"
 								width = '0px'
 								height = '0px'
